@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/echenim/api-service-design/server-without-framework/data"
+	"github.com/echenim/api-service-design/api-without-framework/data"
 )
 
 // Products is a http.Handler

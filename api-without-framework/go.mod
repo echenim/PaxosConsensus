@@ -1,4 +1,4 @@
-module github.com/echenim/api-service-design/server-without-framework
+module github.com/echenim/api-service-design/api-without-framework
 
 go 1.18
 
