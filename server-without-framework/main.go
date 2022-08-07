@@ -12,7 +12,7 @@ import (
 	"github.com/nicholasjackson/env"
 )
 
-var bindAddress = env.String("BIND_ADDRESS", false, ":9090", "Bind address for the server")
+var bindAddress = env.String("BIND_ADDRESS", false, ":8080", "Bind address for the server")
 
 func main() {
 	env.Parse()
